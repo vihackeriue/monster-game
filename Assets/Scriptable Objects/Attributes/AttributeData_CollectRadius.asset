@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tag: collect_radius
   Name: Magnet
-  Description: Increases the collect radius of experience
+  Description: "T\u0103ng b\xE1n k\xEDnh thu th\u1EADp kinh nghi\u1EC7m"
   Icon: {fileID: 21300000, guid: 9d75e323cb2cd5d4482c3efdf41d6996, type: 3}
   StartBonus: 1
   BonusPerLevel: 0.1

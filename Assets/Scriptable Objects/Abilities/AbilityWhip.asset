@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tag: whip
   Name: Whip
-  Description: 
+  Description: "Ch\xE9m k\u1EBB th\xF9"
   Icon: {fileID: 21300000, guid: f3fb7f105ab437141b726bfa7d50fa20, type: 3}
   Sound: {fileID: 8300000, guid: 7cb8d47e9807143479a2ada56c9b4f19, type: 3}
   Prefab: {fileID: 7240759597282444960, guid: 634c28d172ca4fa4095fd18a684251cb, type: 3}

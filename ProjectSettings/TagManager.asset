@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Prop
+  - Chest
+  - Weapon
   layers:
   - Default
   - TransparentFX
@@ -12,7 +15,7 @@ TagManager:
   - Water
   - UI
   - Interactable
-  - 
+  - Terrain
   - Player
   - 
   - 
@@ -46,6 +49,9 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 793513839
+    locked: 0
+  - name: Chest
+    uniqueID: 2571232825
     locked: 0
   - name: Projectile
     uniqueID: 748671687

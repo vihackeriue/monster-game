@@ -44,8 +44,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 385758e28587657448888e9ea085f17d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: bd840d3186e9227468493efa21392090, type: 2}
   data: {fileID: 11400000, guid: 13043763e3a53b0459d3376e3defd4c8, type: 2}
   projectilePrefab: {fileID: -1720308499451011851, guid: 3e04605f5e745c34b883ea81b1d9b4df, type: 3}
-  rotateStep: 45
-  rotateSpeed: 300

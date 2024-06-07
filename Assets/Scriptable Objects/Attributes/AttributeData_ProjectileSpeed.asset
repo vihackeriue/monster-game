@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tag: pro_speed
   Name: Projectile Speed
-  Description: Increases the speed of projectiles
+  Description: "T\u0103ng t\u1ED1c \u0111\u1ED9 c\u1EE7a \u0111\u1EA1n"
   Icon: {fileID: 21300000, guid: f15a1b5bd91ac52458d29c655706b02f, type: 3}
   StartBonus: 1
   BonusPerLevel: 0.05

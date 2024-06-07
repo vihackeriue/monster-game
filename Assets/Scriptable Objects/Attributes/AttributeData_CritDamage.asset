@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tag: crit_damage
   Name: Critical Damage
-  Description: Increases the critical damage
+  Description: "T\u0103ng s\xE1t th\u01B0\u01A1ng ch\xED m\u1EA1ng"
   Icon: {fileID: 21300000, guid: 4aa2a060eccfb9f4293ba14b49d20295, type: 3}
   StartBonus: 1.1
   BonusPerLevel: 0.2

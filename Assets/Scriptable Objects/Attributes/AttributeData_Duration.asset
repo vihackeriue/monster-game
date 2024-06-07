@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tag: duration
   Name: Duration
-  Description: Increases the duration of effects
+  Description: "T\u0103ng th\u1EDDi gian hi\u1EC7u \u1EE9ng"
   Icon: {fileID: 21300000, guid: ec0a04707ee57ce4b9ccae304ed334fc, type: 3}
   StartBonus: 1
   BonusPerLevel: 0.1

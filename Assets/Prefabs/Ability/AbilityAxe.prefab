@@ -45,7 +45,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d1872a8065e8804d8d0aa97bb5ebd08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: bd840d3186e9227468493efa21392090, type: 2}
   data: {fileID: 11400000, guid: 1da186aaaece2fd4d89f939e94fb3049, type: 2}
   projectilePrefab: {fileID: 566050417451993153, guid: e49e857c90aa2fb469874f3003347288, type: 3}
   minForceX: -0.4

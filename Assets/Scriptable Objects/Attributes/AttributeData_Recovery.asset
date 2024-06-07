@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tag: hp_recovery
   Name: Recovery
-  Description: Increases the recovery of health per second
+  Description: "T\u0103ng kh\u1EA3 n\u0103ng ph\u1EE5c h\u1ED3i m\xE1u  m\u1ED7i
+    gi\xE2y"
   Icon: {fileID: 21300000, guid: 2336c2d8838ff5f498b37eceee2c4d37, type: 3}
   StartBonus: 0
   BonusPerLevel: 0.5

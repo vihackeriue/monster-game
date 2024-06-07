@@ -40,6 +40,7 @@ public class AbilityData : ScriptableObject
     {
         return Tag.GetHashCode();
     }
+    
 }
 
 [System.Serializable]

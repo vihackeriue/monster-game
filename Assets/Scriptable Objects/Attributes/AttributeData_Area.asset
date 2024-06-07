@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tag: area
   Name: Area
-  Description: Increases the area effect
+  Description: "T\u0103ng hi\u1EC7u \u1EE9ng khu v\u1EF1c"
   Icon: {fileID: 21300000, guid: 10d0be098082ce74ab3378378b8242bf, type: 3}
   StartBonus: 1
   BonusPerLevel: 0.1

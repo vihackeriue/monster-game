@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tag: armor
   Name: Armor
-  Description: Increases the damage reduction
+  Description: "T\u0103ng kh\u1EA3 n\u0103ng gi\u1EA3m s\xE1t th\u01B0\u01A1ng"
   Icon: {fileID: 21300000, guid: 3a72ed148eaecea4cbc9c489a0f2fbf5, type: 3}
   StartBonus: 0
   BonusPerLevel: 0.05

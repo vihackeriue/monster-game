@@ -45,6 +45,8 @@ public abstract class Ability : MonoBehaviour, IReward
         if (!IsLevelMax)
             m_level++;
     }
+    
+
 
     public float GetBonus(string attributeTag)
     {

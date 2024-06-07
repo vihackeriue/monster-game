@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tag: geyser
   Name: Geyser
-  Description: Create water geysers around you
+  Description: "T\u1EA1o m\u1EA1ch n\u01B0\u1EDBc phun xung quanh"
   Icon: {fileID: 21300000, guid: 1e8d5f71f56a0d8408ebf5def274a6d4, type: 3}
   Sound: {fileID: 8300000, guid: c91fcf414acc0344cb03b13996f1bf3b, type: 3}
   Prefab: {fileID: 4589748992680842690, guid: 0348bb99285d98a4687e19b4f0df7a97, type: 3}

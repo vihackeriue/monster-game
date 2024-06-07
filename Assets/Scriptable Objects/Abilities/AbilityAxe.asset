@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tag: axe
   Name: Axe
-  Description: Throw axes upward
+  Description: "N\xE9m r\xECu"
   Icon: {fileID: 21300000, guid: de7a742c6ed355e4b857377237ce4b41, type: 3}
   Sound: {fileID: 8300000, guid: 37e27b009dde1f241bdb741feb7aaeb2, type: 3}
   Prefab: {fileID: 2180878331484925901, guid: 06657ea55a67a294d87710a1f7c03833, type: 3}
